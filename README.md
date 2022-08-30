@@ -1,1 +1,3 @@
-# .github
+The updated, tabulated equation-of-state version of `IllinoisGRMHD`, as well as supporting thorns `NRPyLeakage` and `NRPyEOS` can currently be found [at this link](https://github.com/leowerneck/Tabulated_EOS_IllinoisGRMHD/).
+
+We are working to migrate these thorns here at the moment...
